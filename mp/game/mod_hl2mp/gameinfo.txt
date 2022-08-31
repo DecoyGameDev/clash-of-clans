@@ -1,8 +1,8 @@
 "GameInfo"
 {
-	game	"My First HL2MP Mod"
-	title	"HALF+LIFE'"
-	title2	"deathmatch mod"
+	game	"clashofclans"
+	title	"Clash Of Clans"
+	title2	"Mobile Action Game"
 	type multiplayer_only
 	nomodels 0
 	nohimodel 1
@@ -11,8 +11,10 @@
 	{
 		"test_speakers"		1
 		"test_hardware"		1
+		"beta_old_clash"	1
+		"clash_halloween"	1
 	}
-	supportsvr	1
+	supportsvr	0
 
 
 	FileSystem
